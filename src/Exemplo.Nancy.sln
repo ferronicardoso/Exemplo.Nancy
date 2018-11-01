@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo.Nancy.WebApi", "Exemplo.Nancy.WebApi\Exemplo.Nancy.WebApi.csproj", "{E1978FE5-08A9-49A9-B42A-A4DB314B8391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo.Nancy.WebApi.Tests", "Exemplo.Nancy.WebApi.Tests\Exemplo.Nancy.WebApi.Tests.csproj", "{CC4F7A66-4F0C-42ED-8C7B-30167610673E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1978FE5-08A9-49A9-B42A-A4DB314B8391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1978FE5-08A9-49A9-B42A-A4DB314B8391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1978FE5-08A9-49A9-B42A-A4DB314B8391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1978FE5-08A9-49A9-B42A-A4DB314B8391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC4F7A66-4F0C-42ED-8C7B-30167610673E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4F7A66-4F0C-42ED-8C7B-30167610673E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4F7A66-4F0C-42ED-8C7B-30167610673E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4F7A66-4F0C-42ED-8C7B-30167610673E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAF24DDC-0CA8-413C-8637-E0CC6ECE886C}
+	EndGlobalSection
+EndGlobal
